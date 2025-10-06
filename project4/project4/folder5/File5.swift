@@ -7,4 +7,4 @@
 
 import Foundation
 
-print("Hi< Vale!")
+print("проект4, папка5, файл1")
